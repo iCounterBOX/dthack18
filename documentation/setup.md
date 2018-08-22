@@ -14,10 +14,10 @@ Users have to do nothing to be detected as the WiFi and Bluetooth radios integra
 * Set up a device to purely sit silent and listen for these probe requests, then write the MAC address and timestamp to a file
 
 Example of information monitored by the WiFi Scanner:
-| DB ID | Timestamp | MAC | AP | RSSI | Vendor |
-| ------ | ------ | ------ | ------ | ------ | ------ |
-53483 | 2012-04-24 07:56:25 | C4:2C:03:96:0E:4A| | 69 | Apple
-| 53482 | 2012-04-24 09:11:26 | D8:2A:7E:10:1E:63 | myNiceBar | 60 | Nokia Corporation
+| DB ID | Timestamp           | MAC               | AP        | RSSI | VENDOR            |
+|-------|---------------------|-------------------|-----------|------|-------------------|
+| 53483 | 2012-04-24 07:56:25 | C4:2C:03:96:0E:4A |           | 69   | Apple             |
+| 53482 | 2012-04-24 09:11:26 | D8:2A:7E:10:1E:63 | myNiceBar | 60   | Nokia Corporation |
 
 It just detects the "beacon frames" originated by the WiFi and Bluetooth radios integrated in the smartphones. Users just need to have the WiFi radio ON with the visible option activated.
 
