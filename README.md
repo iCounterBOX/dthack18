@@ -58,4 +58,4 @@ Examples and documentation for the Deutsche Telekom Hackathon on 13/14 September
 
 
 ## License
-All documentation and examples for the Deutsche Telekom Hackathon 2018 ([**#dthack18**](https://twitter.com/hashtag/dthack17)) are distributed under the conditions of the MIT license. For details see the [LICENSE file](LICENSE).
+All documentation and examples for the Deutsche Telekom Hackathon 2018 ([**#dthack18**](https://twitter.com/hashtag/dthack18)) are distributed under the conditions of the MIT license. For details see the [LICENSE file](LICENSE).
