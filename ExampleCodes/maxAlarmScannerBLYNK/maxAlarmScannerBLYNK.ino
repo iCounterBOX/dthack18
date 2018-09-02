@@ -1,6 +1,9 @@
 /** WifiScan  + Hash + OLED + BLYNK in async Mode
 
 please also check the wiki:
+https://github.com/iCounterBOX/dthack18/wiki/dthack18---maxAlarmScannerBLYNK
+https://github.com/iCounterBOX/dthack18/blob/master/ExampleCodes/maxAlarmScannerBLYNK/maxAlarmScannerBLYNK.ino
+
 
 fix / while-loop..
 
