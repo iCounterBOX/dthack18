@@ -1,4 +1,5 @@
 /** WifiScan  + Hash + OLED + BLYNK in async Mode
+Author: Mrs. Christin Koss
 
 please also check the wiki:
 https://github.com/iCounterBOX/dthack18/wiki/dthack18---maxAlarmScannerBLYNK
@@ -30,7 +31,7 @@ BLYNK_LOG_IP("IP: ", myip);
 
 The FIX:
 
-//KRISTINA / CK / ITcon :26.08.18 - No endles loop..mcu might hang we leave the loop
+//Christin Koss / CK / ITcon :26.08.18 - No endles loop..mcu might hang we leave the loop
 int wifiCounter = 0;
 while (WiFi.status() != WL_CONNECTED) {
 BlynkDelay(500);
