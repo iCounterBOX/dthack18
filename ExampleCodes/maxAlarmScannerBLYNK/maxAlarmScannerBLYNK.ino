@@ -95,10 +95,9 @@ uint16 _ESP_ERROR_COUNTER = 0;
 
 //>>>>>>> Configure the SNIFFER Stuff  ++  Configure the SNIFFER Stuff  ++  Configure the SNIFFER Stuff  <<<<<<<<<
 
-
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "the authCode from Blynk";
+char auth[] = "the authCode from Blynk";	
 
 
 //wlanRouter @ Home
