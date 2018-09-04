@@ -28,7 +28,7 @@ https://www.telekom.com/de/konzern/themenspecials/special-trackathon
 Examples and documentation for the Deutsche Telekom Hackathon on 13/14 September in Bonn
 
 * [Setup (Hardware and first Hello World)](documentation/setup.md)
-* [Source Code examples]](https://github.com/telekom/dthack18/tree/master/ExampleCodes)
+* [Source Code examples](https://github.com/telekom/dthack18/tree/master/ExampleCodes)
 
 
 ## FAQ
