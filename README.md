@@ -57,7 +57,7 @@ Examples and documentation for the Deutsche Telekom Hackathon on 13/14 September
   It's free to take part in the hackathon, and the costs of food and hardware, such as the IoT boards and sensors on site are covered. The travel expenses must be covered by your own.
 
 
-[**#dthack18**](https://github.com/iCounterBOX/dthack18/wiki)
+[**#dthack18 - WiKi**](https://github.com/iCounterBOX/dthack18/wiki)
 
 ## License
 All documentation and examples for the Deutsche Telekom Hackathon 2018 ([**#dthack18**](https://twitter.com/hashtag/dthack18)) are distributed under the conditions of the MIT license. For details see the [LICENSE file](LICENSE).
